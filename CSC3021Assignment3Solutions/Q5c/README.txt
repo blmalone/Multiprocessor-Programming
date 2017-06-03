@@ -1,0 +1,1 @@
+There are changes made to the Chain.java class (Demonstrates Lazy synchronization). I am using the same Hash.java class that is used in Solution 5 solution1.

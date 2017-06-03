@@ -1,0 +1,1 @@
+There are changes made to both Hash.java and Chain.java
